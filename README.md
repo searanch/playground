@@ -1,2 +1,2 @@
 # playground
-Sandbox for testing ideads. 
+Sandbox for testing ideas.
